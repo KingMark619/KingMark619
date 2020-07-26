@@ -5,7 +5,7 @@ I like travelling, and meeting new people. I like being outside of my comfort zo
 
 **About Me**
 
-I am a front-end developer with almost 3 years of experience working in CHINA 🇨🇳. I am originally from Congo 🇨🇩, studied Software Enginering in China (武汉大学).
+I am a front-end developer with almost 3 years of experience working in CHINA 🇨🇳 I am originally from Congo 🇨🇩 studied Software Enginering in China (武汉大学).
 I love accessible design, exploring the relatively new world of tech and learning in public.
 I love the power that coding gives me, the satisfaction of creating something new
 
@@ -17,4 +17,4 @@ I love the power that coding gives me, the satisfaction of creating something ne
 
 📫 How to reach me: EMAIL : marcokayumba@icloud.com
 
-⚡ Fun facts: I speak 5 languages, love basketball and sports in general.**
+⚡ Fun facts: I speak 5 languages, love basketball and sports in general.
