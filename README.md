@@ -7,9 +7,9 @@ I like travelling, and meeting new people. I like being outside of my comfort zo
 
 I am a front-end developer with almost 3 years of experience working in CHINA 🇨🇳. I am originally from Congo 🇨🇩, studied Software Enginering in China (武汉大学).
 I love accessible design, exploring the relatively new world of tech and learning in public.
-**😄 I love the power that coding gives me, the satisfaction of creating something new 
-🔭 I’m currently working on developing myself, growing a start-up web agency 
-🌱 I’m focused on learning Typescript, testing and state management
-💬 Ask me about my work experience In CHINA
-📫 How to reach me: EMAIL : marcokayumba@icloud.com
+**😄 I love the power that coding gives me, the satisfaction of creating something new  \n
+🔭 I’m currently working on developing myself, growing a start-up web agency \n
+🌱 I’m focused on learning Typescript, testing and state management \n
+💬 Ask me about my work experience In CHINA \n
+📫 How to reach me: EMAIL : marcokayumba@icloud.com \n
 ⚡ Fun facts: I speak 5 languages, love basketball and sports in general.**
