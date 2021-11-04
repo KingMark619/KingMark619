@@ -5,13 +5,13 @@ I like travelling, and meeting new people. I like being outside of my comfort zo
 
 **About Me**
 
-I am a front-end developer with almost 3 years of experience working in CHINA 🇨🇳 I am originally from Congo 🇨🇩 studied Software Enginering in China (武汉大学).
+I am a front-end developer with 3 years of experience working in CHINA 🇨🇳 I am originally from DR Congo 🇨🇩 studied Software Enginering and graduated from top 5 university in the country (武汉大学).
 I love accessible design, exploring the relatively new world of tech and learning in public.
 I love the power that coding gives me, the satisfaction of creating something new
 
 🔭 I’m currently working on developing myself, growing a start-up web agency
 
-🌱 I’m focused on learning Typescript, testing and state management
+🌱 I’m focused on learning React Native, Typescript, testing and state management
 
 💬 Ask me about my work experience In CHINA
 
