@@ -5,7 +5,7 @@ I like travelling, and meeting new people. I like being outside of my comfort zo
 
 **About Me**
 
-I am a front-end developer with 3 years of experience working in CHINA 🇨🇳 I am originally from DR Congo 🇨🇩 studied Software Enginering and graduated from top 5 university in the country (武汉大学).
+I am a front-end developer with 4 years of experience working in software developement. I studied Software Enginering and graduated from Wuhan University 
 I love accessible design, exploring the relatively new world of tech and learning in public.
 I love the power that coding gives me, the satisfaction of creating something new
 
@@ -13,7 +13,7 @@ I love the power that coding gives me, the satisfaction of creating something ne
 
 🌱 I’m focused on learning React Native, Typescript, testing and state management
 
-💬 Ask me about my work experience In CHINA
+💬 Ask me about my work experience.
 
 📫 How to reach me: EMAIL : marcokayumba@icloud.com
 
