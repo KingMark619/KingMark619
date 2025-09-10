@@ -5,7 +5,7 @@ I like travelling, and meeting new people. I like being outside of my comfort zo
 
 **About Me**
 
-I am a front-end developer with 6 years of experience working in software developement. I studied Software Enginering and graduated from Wuhan University 
+I am a front-end developer with 7 years of experience working in software developement. I studied Software Enginering and graduated from Wuhan University 
 I love accessible design, exploring the relatively new world of tech and learning in public.
 I love the power that coding gives me, the satisfaction of creating something new
 
